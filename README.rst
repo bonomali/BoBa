@@ -1,7 +1,7 @@
-BoBa: a web translation memory server
-========================================
+BoBa: a web translation memory server by 57 Bengal Regiment
+=============================================================
 
-`amaGama <http://amagama.translatehouse.org>`_ is a web service written in
+57 Bengal Developed Web service for implementing a large-scale translation memory is a web service written in
 Python implementing a large-scale translation memory on top of PostgreSQL. A
 translation memory is a database of previous translations which can be searched
 to find good matches to new strings.
