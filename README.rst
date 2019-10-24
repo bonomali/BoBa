@@ -1,4 +1,4 @@
-amaGama: a web translation memory server
+BoBa: a web translation memory server
 ========================================
 
 `amaGama <http://amagama.translatehouse.org>`_ is a web service written in
@@ -31,5 +31,5 @@ Resources
 Copying
 -------
 
-amaGama is released under the GNU General Public License, version 3 or later.
+Boba is released under the GNU General Public License, version 3 or later.
 See the LICENSE file for details.
